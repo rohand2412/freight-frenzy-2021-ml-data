@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final-Images</folder>
+	<filename>teamelement291.png</filename>
+	<path>/Users/logasundaram/Downloads/freight-frenzy-2021-ml-data-master/Orig/Final-Images/teamelement291.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>1</ymin>
+			<xmax>254</xmax>
+			<ymax>38</ymax>
+		</bndbox>
+	</object>
+</annotation>
