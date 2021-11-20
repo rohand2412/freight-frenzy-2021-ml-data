@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Final-Images</folder>
 	<filename>teamelement1015.png</filename>
-	<path>/Users/aparnayamunan/Downloads/freight-frenzy-2021-ml-data-master/Orig/Final-Images/teamelement1015.png</path>
+	<path>/home/rohan/Documents/FTC2021Repos/freight-frenzy-2021-ml-data/Orig/Final-Images/teamelement1015.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>165</xmin>
+			<xmin>168</xmin>
 			<ymin>1</ymin>
-			<xmax>250</xmax>
+			<xmax>253</xmax>
 			<ymax>77</ymax>
 		</bndbox>
 	</object>
