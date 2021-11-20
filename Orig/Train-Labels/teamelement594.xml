@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Final-Images</folder>
+	<filename>teamelement594.png</filename>
+	<path>/home/rohan/Documents/FTC2021Repos/freight-frenzy-2021-ml-data/Orig/Final-Images/teamelement594.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>2</ymin>
+			<xmax>282</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
